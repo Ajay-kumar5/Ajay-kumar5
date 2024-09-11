@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning Automation & Font-end
 - 💞️ I’m looking to collaborate on QA Testing
-- 📫 How to reach me ajaykumar@kumarasamy@gmail.com
+- 📫 How to reach me ajaykumar.kumarasamy@gmail.com
 - 😄 Pronouns: I am currently looking for QA Automation job.
 - ⚡ Fun fact: Facebook has over a billion users. If it was a country it would be the third largest in the world.
 
